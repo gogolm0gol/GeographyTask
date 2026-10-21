@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GeoAbstract/GeoAbstract.csproj" />
+  <Project Path="GeoInterface/GeoInterface.csproj" />
+</Solution>
